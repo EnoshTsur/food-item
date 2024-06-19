@@ -30,4 +30,15 @@ foodItemRouter.get("/get/:name", async (req: Request, res: Response) => {
   }
 });
 
+foodItemRouter.get("/all", async (req: Request, res: Response) => {
+  try {
+    const foodItems = await FoodItem.find({});
+    return res.status(200).json(foodItems);
+  } catch (error) {
+    return res
+      .status(500)
+      .json({ message: `Error retrieving food items: ${error}` });
+  }
+});
+
 export default foodItemRouter;
