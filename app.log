@@ -1,0 +1,11 @@
+2024-06-20T07:57:21.972Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T07:57:21.987Z [[32minfo[39m]; ::1 - - [20/Jun/2024:07:57:21 +0000] "GET /api/food-item/all HTTP/1.1" 200 515 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T07:57:26.565Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T07:57:26.572Z [[32minfo[39m]; ::1 - - [20/Jun/2024:07:57:26 +0000] "GET /api/food-item/all HTTP/1.1" 200 515 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T07:57:28.755Z [[32minfo[39m]; ::1 - - [20/Jun/2024:07:57:28 +0000] "GET /api/food-item/all HTTP/1.1" - - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T07:57:28.889Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T07:58:17.910Z [[32minfo[39m]; [FoodItem-New] Request for new food item:{"name":"Soy protein powder","brand":"MyProtein","servingAmount":30,"packageAmount":2500,"calories":109,"carbohydrate":0.3,"fat":0,"protein":25}
+2024-06-20T07:58:18.123Z [[32minfo[39m]; [FoodItem-New] Food item was saved successfully
+2024-06-20T07:58:18.127Z [[32minfo[39m]; ::1 - - [20/Jun/2024:07:58:18 +0000] "POST /api/food-item/new HTTP/1.1" 200 173 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T07:58:29.181Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T07:58:29.188Z [[32minfo[39m]; ::1 - - [20/Jun/2024:07:58:29 +0000] "GET /api/food-item/all HTTP/1.1" 200 701 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
