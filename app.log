@@ -9,3 +9,72 @@
 2024-06-20T07:58:18.127Z [[32minfo[39m]; ::1 - - [20/Jun/2024:07:58:18 +0000] "POST /api/food-item/new HTTP/1.1" 200 173 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 2024-06-20T07:58:29.181Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
 2024-06-20T07:58:29.188Z [[32minfo[39m]; ::1 - - [20/Jun/2024:07:58:29 +0000] "GET /api/food-item/all HTTP/1.1" 200 701 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:43:12.554Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T10:43:12.571Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:43:12 +0000] "GET /api/food-item/all HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:44:41.627Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T10:44:41.630Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:44:41 +0000] "GET /api/food-item/all HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:44:56.320Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T10:44:56.322Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:44:56 +0000] "GET /api/food-item/all HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:45:00.570Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T10:45:00.571Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:45:00 +0000] "GET /api/food-item/all HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:45:05.418Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T10:45:05.419Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:45:05 +0000] "GET /api/food-item/all HTTP/1.1" 200 715 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:45:07.076Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:45:07 +0000] "GET /api/food-item/all HTTP/1.1" - - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:45:07.193Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T10:45:54.343Z [[32minfo[39m]; [FoodItem-New] Request for new food item:{"name":"Cola Zero","brand":"Coca cola","servingAmount":0,"packageAmount":1500,"calories":0.3,"carbohydrate":0,"fat":0,"protein":0}
+2024-06-20T10:45:54.540Z [[32minfo[39m]; [FoodItem-New] Food item was saved successfully
+2024-06-20T10:45:54.543Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:45:54 +0000] "POST /api/food-item/new HTTP/1.1" 200 164 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T10:45:59.609Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T10:45:59.613Z [[32minfo[39m]; ::1 - - [20/Jun/2024:10:45:59 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:03:22.407Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:03:22.408Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:03:22 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:03:42.683Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:03:42.685Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:03:42 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:06:25.295Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:06:25.296Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:06:25 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:06:48.234Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:06:48.238Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:06:48 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:06:53.404Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:06:53.406Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:06:53 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:07:16.546Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:07:16.548Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:07:16 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:07:28.323Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:07:28.324Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:07:28 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:07:43.526Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:07:43.527Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:07:43 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:07:52.131Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:07:52.133Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:07:52 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:07:53.155Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:07:53.157Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:07:53 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:08:19.115Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:08:19.116Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:08:19 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:08:33.961Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:08:33.962Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:08:33 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:08:36.083Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:08:36.084Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:08:36 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:09:05.859Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:09:05.861Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:09:05 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:09:10.058Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:09:10.059Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:09:10 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:09:46.914Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:09:46.915Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:09:46 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:09:55.463Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:09:55.464Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:09:55 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:07.152Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:07.157Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:07 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:14.240Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:14.242Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:14 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:32.490Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:32.491Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:32 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:38.942Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:38.944Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:38 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:45.359Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:45.360Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:45 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:50.484Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:50.485Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:50 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:57.069Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:57.071Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:57 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:10:57.527Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:10:57.529Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:10:57 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+2024-06-20T11:11:19.237Z [[32minfo[39m]; [FoodItem-All] Supplying all food items
+2024-06-20T11:11:19.238Z [[32minfo[39m]; ::1 - - [20/Jun/2024:11:11:19 +0000] "GET /api/food-item/all HTTP/1.1" 200 888 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
